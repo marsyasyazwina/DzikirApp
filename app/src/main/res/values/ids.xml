@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tvDesc" type="id">tvDesc</item>
+    <item name="tvLafaz" type="id">tvLafaz</item>
+    <item name="img_artikel" type="id">img_artikel</item>
+    <item name="tv_desc" type="id">tv_desc</item>
+    <item name="tv_lafaz" type="id">tv_lafaz</item>
+    <item name="tv_terjemah" type="id">tv_lafaz</item>
+    <item name="rv_dzikir_setiap_saat" type="id">rv_dzikir_setiap_saat</item>
+    <item name="ivArtikel" type="id">ivArtikel</item>
+    <item name="vpArtikel" type="id">vpArtikel</item>
+    <item name="cv_dzikir_pagi" type="id">cv_dzikir_pagi</item>
+    <item name="cv_dzikir_petang" type="id">cv_dzikir_petang</item>
+    <item name="btn_dzikir_pagi" type="id">btn_dzikir_pagi</item>
+    <item name="btn_dzikir_petang" type="id">btn_dzikir_petang</item>
+</resources>

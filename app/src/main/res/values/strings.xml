@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">DzikirApp</string>
+    <string name="txt_doa_dzikir">Doa dan Dzikir App</string>
+    <string name="txt_tittle">Kumpulan Doa dan Dzikir Sehari - hari</string>
+    <string name="txt_imageview">ImageView</string>
+    <string name="txt_doa_sehari_hari">Sunnah - sunnah Qauliyah Dzikir dan Doa Shalat</string>
+    <string name="txt_description">description</string>
+    <string name="txt_lafaz">lafaz</string>
+    <string name="txt_terjemah">terjemah</string>
+    <string name="txt_qauliyah">Qauliyah Sunnah - Sunnah Dzikir dan Shalat</string>
+    <string name="txt_doa_harian">DoaHarian</string>
+    <string name="txt_bardashboard">BarDashboard</string>
+    <string name="txt_kumpulan_doa_dan_dzikir_sehari_hari">Kumpulan Doa dan Dzikir Sehari hari</string>
+    <string name="txt_desc_icon_qauliyah_shalat">Desc Icon Qauliyah Shalat</string>
+    <string name="txt_bar_dashboard">bar dashboard</string>
+    <string name="txt_sunnah_qauliyah">sunnah qauliyah</string>
+    <string name="txt_desc_icon_dzikir_setiap_saat">txt_desc_icon_dzikir_setiap_saat</string>
+    <string name="txt_dzikir_setiap_saat">txt_dzikir_setiap_saat</string>
+    <string name="txt_desc_icon_dzikir_harian">txt_desc_icon_dzikir_harian</string>
+    <string name="txt_dzikir_doa_harian">txt_dzikir_doa_harian</string>
+    <string name="txt_desc_icon_dzikir_pagi_petang">txt_desc_icon_dzikir_pagi_petang</string>
+    <string name="txt_dzikir_pagi_petang">txt_dzikir_pagi_petang</string>
+    <string name="txt_desc_image_artikel">txt_desc_image_artikel</string>
+    <string name="txt_artikel">artikel</string>
+</resources>
